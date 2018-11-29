@@ -1,2 +1,2 @@
-# eo.teamcstudios.pro
-teamcstudios.pro en Esperanto!
+# eo.teamcstudios.site
+teamcstudios.site en Esperanto!
